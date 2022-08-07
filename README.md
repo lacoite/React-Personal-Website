@@ -1,3 +1,7 @@
+# ReactWebsite
+A small project building a personal website in React.js to serve as a portfolio! Currently working on componenet for layout of main page linked to landing page.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
