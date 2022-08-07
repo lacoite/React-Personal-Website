@@ -1,7 +1,7 @@
 # ReactWebsite
 A small project building a personal website in React.js to serve as a portfolio! Currently working on componenet for layout of main page linked to landing page.
 
-##Landing Page At A Glance
+## Landing Page At A Glance
 
 ![LandingPageDemo](https://user-images.githubusercontent.com/77594266/183312568-c132f986-143a-43f7-8e6f-07d37241cd96.gif)
 
